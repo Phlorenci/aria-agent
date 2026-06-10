@@ -21,7 +21,7 @@ Run:
 import time
 
 from aria.agent         import ARIAAgent
-from simulation.process_sim import SimProcess
+from aria.simulation.process_sim import SimProcess
 
 SEP  = "=" * 62
 SEP2 = "-" * 62
