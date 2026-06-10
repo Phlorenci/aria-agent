@@ -1,0 +1,8 @@
+# ARIA Agent — no external dependencies required.
+# Uses Python standard library only:
+#   threading  — concurrent process simulation
+#   time       — timestamps and sleep
+#   collections — defaultdict for RAG data structures
+#   typing     — type hints
+
+# Python >= 3.8 recommended
